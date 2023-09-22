@@ -1,1 +1,1 @@
-TudouEdit is a simple modification of the Flexlion Save Editor meant to be used in order to load custom weapons and gear alongside decrypting saves.
+GrizzCantKnow is a simple modification of the Flexlion Save Editor meant to be used in order to load custom weapons and gear alongside decrypting saves.
